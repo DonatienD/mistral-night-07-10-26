@@ -16,6 +16,11 @@ git clone https://github.com/DonatienD/mistral-night-07-10-26.git
 cd mistral-night-07-10-26
 ```
 
+Or ask Mistral Vibe:
+```
+Clone the GitHub repository https://github.com/DonatienD/mistral-night-07-10-26.git and install its dependencies
+```
+
 <p align="center">
   <a href="#features"><strong>Features</strong></a> ·
   <a href="#demo"><strong>Demo</strong></a> ·
